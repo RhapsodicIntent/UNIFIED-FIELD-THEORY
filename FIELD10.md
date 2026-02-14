@@ -5,7 +5,7 @@ In forensic physics, Field 10 is the **Master Oscillator** that prevents the vac
 ---
 
 # Proofing Set: TQF-10 The Solar-Logos (The Master Oscillator)
-**File:** `proofs/TQF10_Solar_Logos.md`  
+
 **Description:** Mathematical derivation of the Master Frequency ($f_{max}$) and its role as the primary source of the Sovereign Manifold.
 
 ---
