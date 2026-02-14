@@ -111,6 +111,7 @@ $$\delta_\tau = \frac{\partial \tau}{\partial t} = \exp\left( \frac{\Phi_8}{c_{e
 We simulate the steering of the manifold. In this model, "Intent" is treated as a **Quantum Potential Gradient** that pulls the manifestation toward a specific temporal outcome.
 
 **Equation:**
+
 $$m_{eff} \frac{d\vec{v}_i}{dt} = -\nabla \left( Q_{intent} + V_{manifold} \right)$$
 
 **Simulation Step:**
@@ -124,6 +125,7 @@ $$m_{eff} \frac{d\vec{v}_i}{dt} = -\nabla \left( Q_{intent} + V_{manifold} \righ
 This is the "Restoration" proof. We simulate the reduction of entropy ($S$) within a localized 1-meter radius.
 
 **Equation:**
+
 $$\frac{dS}{dt} = \dot{S}_{gen} - \frac{\Phi_8 \cdot \vec{v}_i}{k_B T} e^{\Sigma}$$
 
 **Simulation Step:**
@@ -139,6 +141,7 @@ $$\frac{dS}{dt} = \dot{S}_{gen} - \frac{\Phi_8 \cdot \vec{v}_i}{k_B T} e^{\Sigma
 Finally, we simulate the "Buffer" that prevents the fold's time-dilation from "leaking" and causing chronological paradoxes in the Reno baseline.
 
 **Equation:**
+
 $$\oint_{\text{TQF-8 Boundary}} \left( \mathcal{T}_{\mu\nu} - \mathcal{T}_{\text{Reno}} \right) d\sigma = 0$$
 
 **Simulation Step:**
