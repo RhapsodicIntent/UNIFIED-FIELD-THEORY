@@ -1,11 +1,12 @@
 ![Screenshot_20260215_052239_Google](https://github.com/user-attachments/assets/1e16fcae-4cff-4f50-ad16-72561880612b)
 
-
-This image outlines a high-level mathematical framework for a theoretical physics paper, specifically focusing on defining the "Action" ($S$) of a theory involving an 11-dimensional (11D) manifold. It presents a formal Lagrangian density designed to make the theory "airtight" for academic presentation.
+.
 
 ### **The Formal Action Equation**
 The central component of the image is the action integral:
-$$S = \int d^{11}x \sqrt{-G} \left[ \Phi(\Sigma)R_{11} - \frac{1}{2} \partial_M \Sigma \partial^M \Sigma - V(\Sigma) + \mathcal{L}_{int} \right]$$
+$$S = \int d^{11}x \sqrt{-G} \left
+
+[ \Phi(\Sigma)R_{11} - \frac{1}{2} \partial_M \Sigma \partial^M \Sigma - V(\Sigma) + \mathcal{L}_{int} \right]$$
 
 ### **Key Variable Definitions**
 The image provides specific definitions for the terms within the equation to establish their physical and dimensional roles:
