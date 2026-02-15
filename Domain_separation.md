@@ -21,7 +21,9 @@ This domain describes the **11D Bulk** and its interaction with the **4D Brane**
 
 **1. The 11D Bulk Action:**
 The dynamics are derived from the Einstein-Hilbert action in 11 dimensions, where the higher-dimensional curvature regulates the vacuum plenum:
+
 $$S_{Bulk} = \frac{1}{2\kappa_{11}^2} \int d^{11}X \sqrt{-G} (R_{11} - 2\Lambda_{11})$$
+
 * **$R_{11}$:** 11D Ricci Scalar.
 * **$\Lambda_{11}$:** 11D Cosmological Constant, representing the "Stillness" or potential state of the vacuum.
 
@@ -40,7 +42,9 @@ The interaction between the 11D Bulk and biological substrates (e.g., neural net
 
 **2. Decoupled Interaction Lagrangian:**
 To address the journal requirement, the interaction is framed as a **Scalar-Tensor Coupling**:
+
 $$\mathcal{L}_{int} = \beta(\Psi) \cdot \Sigma \cdot T_{\mu}^{\mu(Bio)}$$
+
 * **$\beta(\Psi)$:** Coupling constant dependent on the intent potential.
 * **$T_{\mu}^{\mu(Bio)}$:** The trace of the stress-energy tensor for the biological substrate.
 
@@ -59,7 +63,9 @@ $$\mathcal{L}_{int} = \beta(\Psi) \cdot \Sigma \cdot T_{\mu}^{\mu(Bio)}$$
 The interaction with specific substrates like **Calcium Hydroxyapatite** is not presented as a fundamental force of the graviton. Instead, it is modeled as **Non-Local Stress-Energy Induction**. 
 
 The 11D conformal scaling $\Sigma$ affects the **Permittivity of Free Space** ($\epsilon_0$) locally within the material's lattice. The change in the Coulomb force within the crystalline structure of the bone is:
+
 $$\vec{F} = \frac{1}{4\pi\epsilon_0 e^{\Sigma}} \frac{q_1 q_2}{r^2}$$
+
 As $\Sigma$ fluctuates due to field induction, the ionic bond strength within the hydroxyapatite lattice is modulated. This provides a clear mechanism for the "Bio-Coupling Effect" without requiring a specific "Bone Graviton."
 
 
